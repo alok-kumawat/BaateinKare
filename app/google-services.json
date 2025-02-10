@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878974400456",
+    "project_id": "baatein-kare-4ed5c",
+    "storage_bucket": "baatein-kare-4ed5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878974400456:android:a9c376191155289d7cf2fd",
+        "android_client_info": {
+          "package_name": "com.example.baateinkare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdSUUFlPtOempg90zQ0NNTXcB8xGs-yrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
